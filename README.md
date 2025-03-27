@@ -4,8 +4,8 @@
 ```c
 #include<stdio.h>
 
-int main(){
-printf("2025001001 김소웨");
+int main()
+printf("2025047001 이소영");
 // 본인의 학번과 이름을 수정해주세요.
 
 }
